@@ -85,14 +85,6 @@ Growing my skills in **IT infrastructure, automation, and DevOps** while buildin
 
 ---
 
-## 📊 GitHub Stats
-
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavpootheri&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpootheri&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 Feel free to explore my repositories and follow my learning journey.
